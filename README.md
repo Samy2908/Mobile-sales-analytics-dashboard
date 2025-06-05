@@ -73,16 +73,14 @@ This Power BI project presents an interactive and insightful dashboard for analy
 ## 📷 Screenshots
 
 ### Main Sales Dashboard
-![Main Dashboard](![1-1](https://github.com/user-attachments/assets/4adc848b-80f9-4356-bbb7-dd9b16fb4cea)
-)
+![Main Dashboard](./1-1.png)
+
 
 ### Month-To-Date Performance
-![MTD Dashboard](![2-2](https://github.com/user-attachments/assets/a8ae5834-49c4-49c6-9d29-59f7b52742fd)
-)
+![Month-To-Date Dashboard](./2-2.png)
 
 ### SPLY Comparison Dashboard
-![SPLY Dashboard](![3-3](https://github.com/user-attachments/assets/9a7cb81a-04b5-4bd8-b3be-9af66b071c67)
-)
+![SPLY Dashboard](./3-3.png)
 
 ---
 
